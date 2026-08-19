@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# 本地配置（放密码用，不进仓库）
+application-local.yml
+application-local.properties
+.env
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Node
+node_modules/
+npm-debug.log*
